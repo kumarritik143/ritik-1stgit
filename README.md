@@ -1,3 +1,4 @@
 # ritik-1stgit
 This is my 1st git repo.
-Author-Ritik kumar
+<br>
+Author-Ritik kumar(NIT)
